@@ -9,3 +9,5 @@ permalink: /about/
 
 We are boys. In a car. We're going really fast. YES WE ARE.
 
+Just a little test.
+
