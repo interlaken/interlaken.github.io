@@ -1,5 +1,5 @@
-# swjones.github.io
-Website of Samuel Jones
+# interlaken.github.io
+Website of Interlaken
 
 Notes for using Jekyll and GitHub pages:
 
