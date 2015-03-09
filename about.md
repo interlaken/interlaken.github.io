@@ -13,7 +13,7 @@ Currently working on tracks for a new EP/album.
 
 Interested in working on soundtracks for short films. 
 
-email: interlakenmusic*at*gmail.com
+email: interlakenmusic *at* gmail.com
 
 [Music](https://soundcloud.com/interlaken_music)
 
