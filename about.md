@@ -7,26 +7,14 @@ permalink: /about/
 
 <img style="float: right" src="https://farm8.staticflickr.com/7571/16243507716_cd62dd2030.jpg" height="40%" width="40%">
 
-__bold__ **also bold** _italic_ *also italic*
+Interlaken are Tom Duncan and Sam Jones. From Birmingham. Tom lives in Balham, London. Sam lives in Heidelberg, Germany.
 
-# Heading 1
-## Heading 2
-### Heading 3
-###### Heading 6
+Currently working on tracks for a new EP/album.
 
-* bullet 1
-* bullet 2
+Interested in working on soundtracks for short films. 
 
-1. asdasd
-2. asdasd
+email: interlakenmusic@ **at** gmail.com
 
----
+[Music](https://soundcloud.com/interlaken_music)
 
-`verbatim text`
-
-here is a [link](www.google.com)
-
-We are boys. In a car. We're going really fast. YES WE ARE.
-
-Just a little test.
 
