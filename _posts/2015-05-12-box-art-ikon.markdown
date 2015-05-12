@@ -16,7 +16,7 @@ Individually numbered on reverse.
 ![](/content/pictures/art_box_02.JPG)
 
 Visitors to the gallery are encouraged to take one, and to upload a photograph
-to instagram with the hashtag `\#IWTCP` (Interlaken Watercolour Painting.)
+to instagram with the hashtag `#IWTCP` (Interlaken Watercolour Painting.)
 All uploaders will be contacted and offered a free download of our next
 release, along with other exclusive bonus material.
 
