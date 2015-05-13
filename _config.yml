@@ -1,13 +1,14 @@
 # Site settings
 title: Homepage of Interlaken
-email: aaa@aaa.com
+email: interlakenmusic@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Thank you for visiting our website
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: Samisthebest
+twitter_username: Interlakenmusic
 github_username:  interlaken
-
+soundcloud_username: interlaken_music
+instagram_username: interlaken_music
 # Build settings
 markdown: kramdown
 maruku:
