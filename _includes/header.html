@@ -18,6 +18,11 @@
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
+<!-- begin SJ messing -->
+        {% if page.img %}
+          <img src="{{ page.img }}" width="40" height="40">
+        {% endif %}
+<!-- end SJ messing -->
         {% endfor %}
       </div>
     </nav>
