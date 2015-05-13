@@ -2,11 +2,24 @@
 layout: barebones
 no_footer: true
 wide_layout: true
-title: Music
-description: Music
-ios_app_name: music
+title: SoundCloud
+description: SoundCloud
+ios_app_name: soundcloud
 ---
-<script type="text/javascript" charset="utf-8">
-document.location.href = 'https://soundcloud.com/interlaken_music';
+
+<!-- open SoundCloud page in new tab: -->
+
+<script type="text/javascript">
+window.open(
+'https://soundcloud.com/interlaken_music',
+'_blank');
 </script>
-<a href="https://soundcloud.com/interlaken_music">Forwards</a>
+
+<!-- forward back to the home page: -->
+
+<script type="text/javascript" charset="utf-8">
+document.location.href = 'https://interlaken.github.io';
+</script>
+
+<a href="https://interlaken.github.io">Forwards</a>
+
