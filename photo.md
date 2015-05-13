@@ -5,6 +5,7 @@ wide_layout: true
 title: Instagram
 description: Instagram
 ios_app_name: instagram
+img: /content/pictures/IMG_0636.JPG
 ---
 
 <!--

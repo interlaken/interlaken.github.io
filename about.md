@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+img: /content/pictures/IMG_0633.JPG
 ---
 
 <!--
