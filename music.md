@@ -5,7 +5,7 @@ wide_layout: true
 title: SoundCloud
 description: SoundCloud
 ios_app_name: soundcloud
-img: /content/pictures/IMG_0626.JPG
+img: /content/pictures/IMG_0626_lores.png
 ---
 
 <!-- open SoundCloud page in new tab: -->

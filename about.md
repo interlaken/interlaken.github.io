@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-img: /content/pictures/IMG_0633.JPG
+img: /content/pictures/IMG_0633_lores.png
 ---
 
 <!--
