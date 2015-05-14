@@ -1,5 +1,9 @@
 # Site settings
 title: Interlaken
+header_image: /content/pictures/IMG_0649_lores.png
+main_image: /content/pictures/IMG_0639_lores.png
+footer_image: /content/pictures/IMG_0644_lores.png
+credit: Tom Duncan & Sam Jones
 email: interlakenmusic@gmail.com
 #description: > # this means to ignore newlines until "baseurl:"
 #  Thank you for visiting our website
