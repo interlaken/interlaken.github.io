@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<!--
-<img style="float: right" src="https://farm8.staticflickr.com/7571/16243507716_cd62dd2030.jpg" height="40%" width="40%">
--->
-
-<img style="float: right" src="../content/pictures/IMG_0633.JPG" height="40%" width="40%">
+<img style="float: center" src="../content/pictures/P6200665_crop2.JPG" height="100%" width="100%">
 
 Interlaken are Tom Duncan and [Sam Jones](http://swjones.github.io).
 
