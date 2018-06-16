@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.header_image }}" width="40" height="40">&nbsp;&nbsp;{{ site.title }}</a>
+    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -15,14 +15,11 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-<!-- begin SJ messing -->
-        {% if page.img %}
-          <img src="{{ page.img }}" width="20" height="20">
-        {% endif %}
-<!-- end SJ messing -->
+          {% unless page.exclude %}
+            {% if page.title %}
+            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endif %}
+	  {% endunless %}
         {% endfor %}
       </div>
     </nav>
