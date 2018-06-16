@@ -2,16 +2,16 @@
 layout: barebones
 no_footer: true
 wide_layout: true
-title: SoundCloud
-description: SoundCloud
-ios_app_name: soundcloud
+title: Music
+description: Music
+ios_app_name: music
 ---
 
-<!-- open SoundCloud page in new tab: -->
+<!-- open Bandcamp page in new tab: -->
 <!--
 <script type="text/javascript">
 window.open(
-'https://soundcloud.com/interlaken_music');
+'https://interlakenmusic.bandcamp.com/');
 </script>
 -->
 <!-- forward back to the home page: -->
@@ -33,8 +33,8 @@ put back a direct link to the media websites
 <!-- forward directly to the SoundCloud page: -->
 
 <script type="text/javascript" charset="utf-8">
-document.location.href = 'https://soundcloud.com/interlaken_music';
+document.location.href = 'https://interlakenmusic.bandcamp.com/';
 </script>
 
-<a href="https://soundcloud.com/interlaken_music">Forwards</a>
+<a href="https://interlakenmusic.bandcamp.com/">Forwards</a>
 
